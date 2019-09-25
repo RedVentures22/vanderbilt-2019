@@ -1,5 +1,9 @@
 ## If you have any problems just let Mason or me know and we will be glad to help you
 
+# Install Visual Studio Code
+
+[Download the GOAT of free IDEs here](https://code.visualstudio.com/download)
+
 # Install git
 
 First check if you have git installed

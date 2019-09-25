@@ -4,6 +4,10 @@
 
 [Download the GOAT of free IDEs here](https://code.visualstudio.com/download)
 
+# Install Postman
+
+[Download Postman](https://www.getpostman.com/downloads/)
+
 # Install git
 
 First check if you have git installed

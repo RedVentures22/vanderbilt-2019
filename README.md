@@ -1,4 +1,4 @@
-## If you have any problems just let Mason or me know and we will be glad to help you
+## If you have any problems just let us know (or if you're remote, create an issue) and we will be glad to help you
 
 # Install git
 

@@ -16,7 +16,7 @@ func main() {
 	router.Path("/").Methods(http.MethodGet).HandlerFunc(healthCheck)
 
 	// Serve
-	log.Panicln("Serving on port :8080")
+	log.Println("Serving on port :8080")
 	log.Fatal(http.ListenAndServe(":8080", router))
 }
 

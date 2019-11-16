@@ -20,11 +20,11 @@ If you see a version show up (something like `git version 2.23.0` then go to the
 
 # Install Golang (aka Go)
 
-Check if you have Go installed on your machine by running this in your command line: 
+Check if you have Go installed on your machine by running this in your command line:
 
 `go`
 
-If you see a big ol list of shit pop up then you're good
+If you see a big list pop up then you're good
 
 Otherwise, install Go:
 
@@ -36,7 +36,7 @@ Otherwise, install Go:
 
 # Set your Go path
 
-Now let's set up your Go path. Again, let's check if you have this already by running: 
+Now let's set up your Go path. Again, let's check if you have this already by running:
 
 `echo $GOPATH`
 
@@ -46,7 +46,7 @@ If you see something like:
 
 Then you are good
 
-Other wise follow these instructions:
+Otherwise follow these instructions:
 
 [For Mac/Linux](https://www.callicoder.com/golang-installation-setup-gopath-workspace/#unix-systems-linux-and-macos)
 
@@ -54,7 +54,7 @@ Other wise follow these instructions:
 
 # Hello World
 
-Let's make sure you didn't fuck up. Follow these instructions:
+Follow these instructions:
 
 [Build Hello World App](https://www.callicoder.com/golang-installation-setup-gopath-workspace/#testing-your-go-installation-with-the-hello-world-program)
 
